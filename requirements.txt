@@ -1,0 +1,17 @@
+# Framework web para nuestra API
+fastapi
+
+# Servidor de alto rendimiento para correr FastAPI
+uvicorn[standard]
+
+# Herramienta principal de automatización web
+playwright
+
+# Extensión para modo sigilo (evitar detección de bots)
+playwright-stealth
+
+# Validación de datos (usado internamente por FastAPI)
+pydantic
+
+#Modulo para API Laudus
+httpx
